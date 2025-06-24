@@ -1,6 +1,6 @@
 ## Hi there 👋 what's up?
 
-My name is Alex, and i'm a student from Milan, Italy.
+My name is Alex, and i'm a student from Milan, Italy. 📍
 
 ## About me
 
