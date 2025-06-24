@@ -12,4 +12,4 @@ My name is Alex, and i'm a student from Milan, Italy.
 
 ## I code with
 
-Java, SQL, JavaScript, HTML, CSS, C++, Bulma
+Java, MySQL, JavaScript, HTML, CSS, C++, Bulma
