@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 what's up?
 
-<!--
-**AxelInCoding/AxelInCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alex, and i'm a student from Milan, Italy.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Creating bugs since 2022
+
+📚 I'm currently learning React/SQL  
+
+🎯 Goals: University Degree
+
+## I code with
+
+Java, SQL, JavaScript, HTML, CSS, C++, Bulma
