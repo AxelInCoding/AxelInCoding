@@ -1,6 +1,6 @@
 ## Alexandors Kotis
 
-My name is Alexandros Kotis, and i'm a Student/Developer of University from Milan, Italy📍
+My name is Alexandros Kotis, and i'm a Student/Developer of State University from Milan, Italy📍
 
 ## About me
 
