@@ -6,7 +6,7 @@ My name is Alexandros Kotis, and i'm a Student/Developer of State University fro
 
 ✨ Creating bugs since 2022
 
-📚 I'm currently learning React  
+📚 I'm currently learning Go Lang  
 
 🎯 Goals: University Degree
 
